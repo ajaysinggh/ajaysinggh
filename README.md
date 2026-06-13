@@ -4,7 +4,7 @@ AWS · Databricks · PySpark · dbt · Airflow · Delta Lake
 
 ---
 
-Building production-grade data pipelines. 5+ years across financial services (Vanguard), semiconductors (Qorvo), and fintech (EXL).
+Building production-grade data pipelines. 4+ years across financial services (Vanguard), semiconductors (Qorvo), and fintech (EXL).
 
 **Current focus:** Medallion lakehouse architecture on AWS + Databricks
 
